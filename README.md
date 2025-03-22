@@ -29,11 +29,13 @@ This project implements an advanced TCP-based web server and proxy using Python'
    ```bash
      python advanced_async_web_server.py
    ```
+2. **Run the web proxy**:
+   ```bash
+     python advanced_async_web_proxy.py
+   ```
 
-3. **Run the web proxy**:
+3. **Test with curl or browser:**:
     ```bash
-    python advanced_async_web_proxy.py
-
-    
-4. **
-
+    curl https://localhost:8443 --insecure
+curl -X GET http://localhost:8888 -H "Host: www.example.com"
+```
