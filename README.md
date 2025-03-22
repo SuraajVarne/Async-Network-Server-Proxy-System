@@ -28,6 +28,12 @@ This project implements an advanced TCP-based web server and proxy using Python'
 2. **Run the web server**:
    ```bash
      python advanced_async_web_server.py
-```
+   ```
 
 3. **Run the web proxy**:
+    ```bash
+    python advanced_async_web_proxy.py
+
+    
+4. **
+
