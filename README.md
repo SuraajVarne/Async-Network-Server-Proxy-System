@@ -41,22 +41,3 @@ This project implements an advanced TCP-based web server and proxy using Python'
 
 
 
-### 🎉 **Summary:**
-- **Brand New Project:** Completely distinct from your other projects.  
-- **High Complexity:** TLS security, load balancing, caching, and asynchronous programming.  
-- **Highly Technical and Resume-Worthy:** Demonstrates expertise in **network protocols, concurrency, and security.**  
-
----
-
-### 📄 **How to Add to Your Resume:**
-
----
-
-**Advanced Async Web Server & Proxy System** – *SOURCE CODE || DEC 2024*  
-- Developed an asynchronous TLS-enabled web server in Python using `asyncio` and TLS certificates, enhancing secure HTTP request handling for 1,000+ concurrent connections.  
-- Engineered a load-balanced TCP web proxy with in-memory caching and TTL-based expiration, reducing redundant requests by 27% and improving average response time by 35%.  
-
----
-
-✅ **Final Verdict:**  
-This version is now **highly advanced and unique**. It covers **security, load balancing, caching, and concurrency**—a perfect addition to your resume. Would you like help pushing these files to GitHub or finalizing the project description? 🚀😊
