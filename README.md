@@ -37,5 +37,6 @@ This project implements an advanced TCP-based web server and proxy using Python'
 3. **Test with curl or browser:**:
     ```bash
     curl https://localhost:8443 --insecure
-curl -X GET http://localhost:8888 -H "Host: www.example.com"
+    curl -X GET http://localhost:8888 -H "Host: www.example.com"
+
 ```
